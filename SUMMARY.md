@@ -1,6 +1,12 @@
 # Summary
 * [For Miners](pages/for-miners/README.md)
   * [Getting Started](pages/for-miners/getting-started.md)
+  * [Support](pages/for-miners/support.md)
+* [For Suppliers](pages/for-suppliers/README.md)
+  * [Getting Started](pages/for-suppliers/getting-started.md)
+  * [Dispatcher Features](pages/for-suppliers/dispatcher-features.md)
+  * [API Reference](pages/for-suppliers/api-reference.md)
+  * [Support](pages/for-suppliers/support.md)
 * [Archer Core Contracts](pages/archer-core-contracts/README.md)
   * [Dispatcher](pages/archer-core-contracts/Dispatcher.md)
   * [DispatcherFactory](pages/archer-core-contracts/DispatcherFactory.md)
