@@ -27,8 +27,8 @@ Body:
   "input_asset": "ETH", // OPTIONAL: asset to withdraw from dispatcher liquidity
   "query_insert_locations": ["54", "128", "220"], // OPTIONAL: locations in query to insert values
   "trade_insert_locations": ["56", "200"], // OPTIONAL: location in trade to insert values
-  "min_timestamp": "1609459200", // OPTIONAL: transaction fails if early (based on block timestamp)
-  "max_timestamp": "1609459380", // OPTIONAL: transaction fails if late (based on block timestamp)
+  "timestamp_min": "1609459200", // OPTIONAL: transaction fails if early (based on block timestamp)
+  "timestamp_max": "1609459380", // OPTIONAL: transaction fails if late (based on block timestamp)
   "deadline_block_number": "1230000" // OPTIONAL: transaction fails if deadline is not met
 }
 ```
