@@ -19,3 +19,29 @@ Note:
 If you previously participated in the SushiSwap Onsen program: unstake your SLP tokens from SushiSwap, then stake SLP tokens in the Archer DAO App.
 
 {% endhint %}
+
+## SUSHI Rewards
+
+For the duration of the SushiSwap Onsen program, participants receive SUSHI in addition to ARCH. Per the Onsen program details, SUSHI rewards are partially vested:
+* 1/3 released immediately
+* 2/3 vesting after six months
+
+When you claim rewards from the Archer DAO App, the claimable SUSHI will be immediately distributed to your account. Details of the vested SUSHI distribution are TBD.
+
+## Vesting Schedule
+
+2/3 of ARCH token rewards are vested. Each time rewards are claimed, a new Grant is created with linear vesting over a six months. Vested tokens may be claimed at any time.
+
+## Claiming Rewards
+
+Rewards may be claimed at any time using the Claim tab in the (Archer DAO App)[]. When staking or unstaking SLP, rewards will be automatically claimed.
+
+## Voting Power
+
+Each staked SLP token provides 32 Voting Power.
+
+Unclaimed and vesting ARCH tokens count towards Voting Power.
+
+## Risks
+
+The code your are interacting with is **unaudited**. [Review the code on Github](https://github.com/archerdao/governance)
