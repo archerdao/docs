@@ -14,11 +14,29 @@ Based on a vote by Archer DAO members, a liquidity mining program has been made 
 
 {% hint style="info" %}
 
-Note:  
+**Previous SushiSwap Onsen Participants**
 
 If you previously participated in the SushiSwap Onsen program: unstake your SLP tokens from SushiSwap, then stake SLP tokens in the Archer DAO App.
 
 {% endhint %}
+
+#### Add Liquidity to the SushiSwap ARCH-ETH Pool
+
+1. Visit the [SushiSwap ARCH-ETH Pool](https://app.sushi.com/pair/0x4441eb3076f828d5176f4fe74d7c775542dae106)
+2. Connect your wallet.
+3. Press `+ Liquidity` and enter the amount of ARCH you wish to stake. The ETH equivalent will automatically populate.
+4. Press `Approve ARCH` and confirm the transaction.
+5. Once approved, click `Supply`. This will require another on-chain transaction.
+
+#### Stake SLP tokens in the Archer DAO App
+
+1. Visit the [Archer DAO App](http://app.archerdao.io/)
+2. Connect your wallet.
+3. Select `SLP` from the token drop-down list.
+4. Enter the amount your wish to stake or press "Max".
+5. Press `Approve` and confirm the message on your wallet.
+6. Press `Stake` and confirm the transaction.
+7. Once approved and staked, track your rewards on the `Claim` tab.
 
 ## SUSHI Rewards
 
@@ -26,7 +44,7 @@ For the duration of the SushiSwap Onsen program, participants receive SUSHI in a
 * 1/3 released immediately
 * 2/3 vesting after six months
 
-When you claim rewards from the Archer DAO App, the claimable SUSHI will be immediately distributed to your account. Details of the vested SUSHI distribution are TBD.
+When you claim rewards from the Archer DAO App, the claimable SUSHI will be immediately distributed to your account. Details of the vested SUSHI distribution are [TBD](https://docs.sushiswap.fi/faq#vesting).
 
 ## Vesting Schedule
 
@@ -34,7 +52,7 @@ When you claim rewards from the Archer DAO App, the claimable SUSHI will be imme
 
 ## Claiming Rewards
 
-Rewards may be claimed at any time using the Claim tab in the (Archer DAO App)[]. When staking or unstaking SLP, rewards will be automatically claimed.
+Rewards may be claimed at any time using the Claim tab in the (Archer DAO App)[http://app.archerdao.io/]. When staking or unstaking SLP, rewards will be automatically claimed.
 
 ## Voting Power
 
