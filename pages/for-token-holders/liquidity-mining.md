@@ -24,9 +24,10 @@ If you previously participated in the SushiSwap Onsen program: unstake your SLP 
 
 1. Visit the [SushiSwap ARCH-ETH Pool](https://app.sushi.com/pair/0x4441eb3076f828d5176f4fe74d7c775542dae106)
 2. Connect your wallet.
-3. Press `+ Liquidity` and enter the amount of ARCH you wish to stake. The ETH equivalent will automatically populate.
-4. Press `Approve ARCH` and confirm the transaction.
-5. Once approved, click `Supply`. This will require another on-chain transaction.
+3. Press `+ Liquidity` and change the second token selection from "WETH" to "ETH".
+4. Enter the amount of ARCH you wish to stake. The ETH equivalent will automatically populate.
+5. Press `Approve ARCH` and confirm the transaction.
+6. Once approved, click `Supply`. This will require another on-chain transaction.
 
 #### Stake SLP tokens in the Archer DAO App
 
