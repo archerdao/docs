@@ -34,7 +34,7 @@ If you previously participated in the SushiSwap Onsen program: unstake your SLP 
 1. Visit the [Archer DAO App](http://app.archerdao.io/)
 2. Connect your wallet.
 3. Select `SLP` from the token drop-down list.
-4. Enter the amount your wish to stake or press "Max".
+4. Enter the amount you wish to stake or press "Max".
 5. Press `Approve` and confirm the message on your wallet.
 6. Press `Stake` and confirm the transaction.
 7. Once approved and staked, track your rewards on the `Claim` tab.
@@ -53,13 +53,13 @@ When you claim rewards from the Archer DAO App, the claimable SUSHI will be imme
 
 ## Claiming Rewards
 
-Rewards may be claimed at any time using the Claim tab in the (Archer DAO App)[http://app.archerdao.io/]. When staking or unstaking SLP, rewards will be automatically claimed.
+Rewards may be claimed at any time using the Claim tab in the [Archer DAO App](http://app.archerdao.io/). When staking or unstaking SLP, rewards will be automatically claimed.
 
 ## Voting Power
 
 Each staked SLP token provides 32 Voting Power.
 
-Unclaimed and vesting ARCH tokens count towards Voting Power.
+Unclaimed and vesting ARCH tokens also count towards Voting Power.
 
 ## Risks
 
