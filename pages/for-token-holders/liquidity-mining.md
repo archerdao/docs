@@ -63,4 +63,4 @@ Unclaimed and vesting ARCH tokens also count towards Voting Power.
 
 ## Risks
 
-The code your are interacting with is **unaudited**. [Review the code on Github](https://github.com/archerdao/governance)
+The code you are interacting with is **unaudited**. [Review the code on Github](https://github.com/archerdao/governance)
