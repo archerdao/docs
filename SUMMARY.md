@@ -7,6 +7,7 @@
   * [Dispatcher Features](pages/for-suppliers/dispatcher-features.md)
   * [API Reference](pages/for-suppliers/api-reference.md)
   * [Support](pages/for-suppliers/support.md)
+  * [Experimental - Archer Relay](pages/for-suppliers/archer-relay.md)
 * [For Token Holders](pages/for-token-holders/README.md)
   * [Liquidity Mining](pages/for-token-holders/liquidity-mining.md)
 * [Archer Core Contracts](pages/archer-core-contracts/README.md)
