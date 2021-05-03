@@ -1,3 +1,10 @@
+
+{% hint type="warning" %}
+
+This is a deprecated page.
+
+{% endhint %}
+
 Archer allows suppliers to execute prioritized transactions. For more information, read our [introductory post](https://medium.com/archer-dao/introducing-archer-66f20d2cc425).
 
 # How it works

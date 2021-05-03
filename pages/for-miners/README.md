@@ -1,6 +1,6 @@
 # For Miners
 
-Archer creates a new sustainable revenue source for miners.  [Get started](./getting-started/) today and be up and running in 5 minutes.
+Archer creates a new sustainable revenue source for miners.  [Get started](./getting-started/) today.
 
 {% hint style="info" %}
 

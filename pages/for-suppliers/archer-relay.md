@@ -1,9 +1,21 @@
 
-{% hint type="warning" %}
+Archer Relay is a service to post transactions to Ethereum mainnet.
 
-This is an experimental endpoint. Service may be interupted or disabled without notice.
+## FlashBots Compatible
 
-{% endhint %}
+Archer Relay is FlashBots compatible, making it straight-forward for you to submit transactions as a searcher within the FlashBots ecosystem.
+
+We encourage suppliers to submit to many endpoints, including Archer Relay. Archer Relay combines, augments and forwards bundles to different client types. The benefits for suppliers are:
+  * Exclusive hashrate
+  * Smart forwarding
+  * Bundle merging and augmentation
+  * Get more bundles included in blocks
+
+
+## Application Integrations
+
+DeFi applications that want the benefits of submitting transactions through Archer Relay may contact our team to review integration options.
+
 
 ## Request Format
 

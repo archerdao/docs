@@ -1,4 +1,10 @@
 
+{% hint type="warning" %}
+
+This is a deprecated page.
+
+{% endhint %}
+
 ## Request Format
 
 URL: https://api.archerdao.io/v1/submit-opportunity

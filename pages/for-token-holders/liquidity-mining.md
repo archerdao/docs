@@ -1,3 +1,10 @@
+
+{% hint type="warning" %}
+
+The liquidity mining program has ended.
+
+{% endhint %}
+
 Based on a vote by Archer DAO members, a liquidity mining program has been made available with budget of 500,000 ARCH.
 
 ## Details

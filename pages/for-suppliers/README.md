@@ -1,6 +1,6 @@
 # For Suppliers
 
-Archer allows suppliers to execute prioritized transactions.
+Archer allows suppliers to execute prioritized transactions with execution guarantees.
 
 {% hint style="info" %}
 
