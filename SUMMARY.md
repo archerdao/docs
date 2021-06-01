@@ -1,12 +1,12 @@
 # Summary
 
-## For Traders and Applications
+## For Traders
 
 * [Archer Swap](pages/for-traders/archer-swap.md)
-* [Archer Relay](pages/for-suppliers/README.md)
-  * [HFT Trader Integration](pages/for-traders/traders.md)
-  * [FlashBots Searchers](pages/for-suppliers/archer-relay.md)
-* [Support](pages/for-suppliers/support.md)
+* [Archer Relay](pages/for-traders/README.md)
+  * [High Frequency Traders](pages/for-traders/traders.md)
+  * [FlashBots Bundles](pages/for-traders/flashbots.md)
+* [Support](pages/for-traders/support.md)
 
 ## For Miners
 
