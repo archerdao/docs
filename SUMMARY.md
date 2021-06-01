@@ -5,8 +5,7 @@
 * [Archer Swap](pages/for-traders/archer-swap.md)
 * [Archer Relay](pages/for-suppliers/README.md)
   * [HFT Trader Integration](pages/for-traders/traders.md)
-  * [Application Integration](pages/for-traders/applications.md)
-  * [FlashBots Searchers](pages/for-traders/flashbots.md)
+  * [FlashBots Searchers](pages/for-suppliers/archer-relay.md)
 * [Support](pages/for-suppliers/support.md)
 
 ## For Miners
