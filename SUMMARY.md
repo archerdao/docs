@@ -1,34 +1,36 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## For Traders
 
-* [Archer Swap](pages/for-traders/archer-swap.md)
-* [Archer Relay](pages/for-traders/README.md)
-  * [High Frequency Traders](pages/for-traders/traders.md)
-  * [FlashBots Bundles](pages/for-traders/flashbots.md)
-* [Support](pages/for-traders/support.md)
+* [Archer Swap](for-traders/archer-swap.md)
+* [Archer Relay](for-traders/for-traders/README.md)
+  * [Traders](for-traders/for-traders/traders.md)
+  * [FlashBots Bundles](for-traders/for-traders/flashbots.md)
+* [Support](for-traders/support.md)
 
 ## For Miners
 
-* [Getting Started](pages/for-miners/getting-started.md)
-* [Support](pages/for-miners/support.md)
+* [Getting Started](for-miners/getting-started.md)
+* [Support](for-miners/support.md)
 
-## For Token Holders
+---
 
-* [Intro](pages/for-token-holders/README.md)
-* [Liquidity Mining](pages/for-token-holders/liquidity-mining.md)
+* [Intro](for-token-holders.md)
 
 ## Contracts
 
-* [Archer Core Contracts](pages/archer-core-contracts/README.md)
-  * [Dispatcher](pages/archer-core-contracts/Dispatcher.md)
-  * [DispatcherFactory](pages/archer-core-contracts/DispatcherFactory.md)
-  * [QueryEngine](pages/archer-core-contracts/QueryEngine.md)
-* [Governance Contracts](pages/governance-contracts/README.md)
-  * [ArchToken](pages/governance-contracts/ArchToken.md)
-  * [Multisend](pages/governance-contracts/Multisend.md)
-  * [SupplyManager](pages/governance-contracts/SupplyManager.md)
-  * [Vault](pages/governance-contracts/Vault.md)
-  * [Vesting](pages/governance-contracts/Vesting.md)
-  * [VotingPower](pages/governance-contracts/VotingPower.md)
-  * [VotingPowerPrism](pages/governance-contracts/VotingPowerPrism.md)
+* [Archer Core Contracts](contracts/archer-core-contracts/README.md)
+  * [Dispatcher](contracts/archer-core-contracts/dispatcher.md)
+  * [DispatcherFactory](contracts/archer-core-contracts/dispatcherfactory.md)
+  * [QueryEngine](contracts/archer-core-contracts/queryengine.md)
+* [Governance Contracts](contracts/governance-contracts/README.md)
+  * [ArchToken](contracts/governance-contracts/archtoken.md)
+  * [Multisend](contracts/governance-contracts/multisend.md)
+  * [SupplyManager](contracts/governance-contracts/supplymanager.md)
+  * [Vault](contracts/governance-contracts/vault.md)
+  * [Vesting](contracts/governance-contracts/vesting.md)
+  * [VotingPower](contracts/governance-contracts/votingpower.md)
+  * [VotingPowerPrism](contracts/governance-contracts/votingpowerprism.md)
+
