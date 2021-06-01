@@ -1,13 +1,26 @@
 # Summary
-* [For Miners](pages/for-miners/README.md)
-  * [Getting Started](pages/for-miners/getting-started.md)
-  * [Support](pages/for-miners/support.md)
-* [For Suppliers](pages/for-suppliers/README.md)
-  * [Archer Relay](pages/for-suppliers/archer-relay.md)
-  * [Dispatcher Features](pages/for-suppliers/dispatcher-features.md)
-  * [Support](pages/for-suppliers/support.md)
-* [For Token Holders](pages/for-token-holders/README.md)
-  * [Liquidity Mining](pages/for-token-holders/liquidity-mining.md)
+
+## For Traders and Applications
+
+* [Archer Swap](pages/for-traders/archer-swap.md)
+* [Archer Relay](pages/for-suppliers/README.md)
+  * [HFT Trader Integration](pages/for-traders/traders.md)
+  * [Application Integration](pages/for-traders/applications.md)
+  * [FlashBots Searchers](pages/for-traders/flashbots.md)
+* [Support](pages/for-suppliers/support.md)
+
+## For Miners
+
+* [Getting Started](pages/for-miners/getting-started.md)
+* [Support](pages/for-miners/support.md)
+
+## For Token Holders
+
+* [Intro](pages/for-token-holders/README.md)
+* [Liquidity Mining](pages/for-token-holders/liquidity-mining.md)
+
+## Contracts
+
 * [Archer Core Contracts](pages/archer-core-contracts/README.md)
   * [Dispatcher](pages/archer-core-contracts/Dispatcher.md)
   * [DispatcherFactory](pages/archer-core-contracts/DispatcherFactory.md)
