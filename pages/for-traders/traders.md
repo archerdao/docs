@@ -21,9 +21,9 @@ ArcherSwapRouter shows how to set execution criteria in the context of an AMM tr
 * [Source](https://github.com/archerdao/archerswap/blob/master/packages/smart-contracts/contracts/ArcherSwapRouter.sol)
 * [Etherscan](https://etherscan.io/address/0x87535b160e251167fb7abe239d2467d1127219e4)
 
-### Transaction Submission Options
+### Transaction Submission
 
-You can choose how long transactions remain valid. In other words, your can choose to have your transaction expire if it is not mined on the next block. Or, you can submit with a deadline, in which case Archer Relay will re-submit the trade on your behalf every block.
+Submit signed transactions to one of two API endpoints, depending on your preferences.
 
 #### Public Access API
 
@@ -43,16 +43,18 @@ Payload:
 ```
 
 * `tx`: raw signed transaction
-* `deadline`: See note, Unix timestamp when transaction expires (default 30 mins). We retry every block until transaction is included, the deadline passes, or you cancel.
-* `targetBlock`: See note, the block number you want the transaction included. We will store the transaction until that block arrives and try submitting it then.
+* `deadline`: See note, Unix timestamp when transaction expires (default 30 mins; longer requires API key). We retry every block until transaction is included, the deadline passes, or you cancel.
+* `targetBlock`: See note, the block number you want the transaction included. We will store the transaction until that block arrives and try submitting it then (requires API key).
 
-Note: You specify your preferred execution by supplying either `targetBlock` or `deadline`. If you provide both, `deadline` takes precedence.
+Note: You specify your preferred execution by supplying either `targetBlock` or `deadline`. If you provide both, `deadline` takes precedence. These settings affect how long transactions remain valid. In other words, your may choose to have your transaction expire if it is not mined on the `targetBlock`. Or, you can submit with a `deadline`, in which case Archer Relay will re-submit the trade on your behalf every block.
 
-#### Authorized Access API
+#### API Key
 
-POST: https://api.archerdao.io/v1/transaction 
+The public API allows you to submit for exactly one block in the future and enforces a maximum deadline of 30 minutes. These limits are reasonable, but you may want more flexibility.
 
 Contact our team for an API key.
+
+POST: https://api.archerdao.io/v1/transaction 
 
 Payload:
 
