@@ -14,18 +14,18 @@ Use [Archer Swap](https://swap.archerdao.io), which executes trades through Arch
 
 At a high-level, you submit signed transactions to an API endpoint. Your transaction should include a deadline and execution guarantees (like minimum acceptable price).
 
-### Example Router
+### Example Router for AMM
 
 ArcherSwapRouter shows how to set execution criteria in the context of an AMM trade. This can be expanded to any transaction and contract.
 
 * [Source](https://github.com/archerdao/archerswap/blob/master/packages/smart-contracts/contracts/ArcherSwapRouter.sol)
 * [Etherscan](https://etherscan.io/address/0x87535b160e251167fb7abe239d2467d1127219e4)
 
-### Submission Options
+### Transaction Submission Options
 
 You can choose how long transactions remain valid. In other words, your can choose to have your transaction expire if it is not mined on the next block. Or, you can submit with a deadline, in which case Archer Relay will re-submit the trade on your behalf every block.
 
-#### Public Access
+#### Public Access API
 
 POST: https://api.archerdao.io/v1/transaction 
 
@@ -48,7 +48,7 @@ Payload:
 
 Note: You specify your preferred execution by supplying either `targetBlock` or `deadline`. If you provide both, `deadline` takes precedence.
 
-#### Authorized Access
+#### Authorized Access API
 
 POST: https://api.archerdao.io/v1/transaction 
 
