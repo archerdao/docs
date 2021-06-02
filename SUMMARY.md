@@ -15,10 +15,6 @@
 * [Getting Started](for-miners/getting-started.md)
 * [Support](for-miners/support.md)
 
----
-
-* [Intro](for-token-holders.md)
-
 ## Contracts
 
 * [Archer Core Contracts](contracts/archer-core-contracts/README.md)
