@@ -1,19 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
-
-## For Traders
-
-* [Archer Swap](for-traders/archer-swap.md)
-* [Archer Relay](for-traders/for-traders/README.md)
-  * [Traders](for-traders/for-traders/traders.md)
-  * [FlashBots Bundles](for-traders/for-traders/flashbots.md)
-* [Support](for-traders/support.md)
-
-## For Miners
-
-* [Getting Started](for-miners/getting-started.md)
-* [Support](for-miners/support.md)
+* [We've Moved](README.md)
 
 ## Contracts
 
@@ -29,4 +16,3 @@
   * [Vesting](contracts/governance-contracts/vesting.md)
   * [VotingPower](contracts/governance-contracts/votingpower.md)
   * [VotingPowerPrism](contracts/governance-contracts/votingpowerprism.md)
-
